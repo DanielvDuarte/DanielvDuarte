@@ -1,4 +1,3 @@
-## Hi there 👋
 # Olá! Eu sou o Daniel Vieira Duarte 👋  
 
 💻 **Desenvolvedor de Software** especializado em C#, .NET e Python  
